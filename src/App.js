@@ -176,7 +176,7 @@ const AppComponent = () => {
       <Header>
         <AppName>
           <RecipeImage src="/react-recipe-finder/hamburger.svg" />
-          JenniFoods
+          Recipe Finder
         </AppName>
         <SearchBox>
           <SearchIcon src="/react-recipe-finder/search-icon.svg" />

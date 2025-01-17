@@ -1,6 +1,6 @@
-# JenniFoods
+# Recipe Finder
 
-JenniFoods is a React-based application that allows users to search for recipes and view detailed information about their favorite dishes. It utilizes the Edamam Recipe Search API to fetch recipes based on user input, and it displays them in a modern, user-friendly interface.
+Recipe Finder is a React-based application that allows users to search for recipes and view detailed information about their favorite dishes. It utilizes the Edamam Recipe Search API to fetch recipes based on user input, and it displays them in a modern, user-friendly interface.
 
 ## Features
 
@@ -22,8 +22,8 @@ JenniFoods is a React-based application that allows users to search for recipes 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jennielle/jennifoods.git
-   cd jennifoods
+   git clone https://github.com/jennielle/Recipe Finder.git
+   cd Recipe Finder
    ```
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ JenniFoods is a React-based application that allows users to search for recipes 
 ## Folder Structure
 
 ```
-jennifoods/
+Recipe Finder/
 ├── public/
 │   └── ... (static assets like index.html, icons)
 ├── src/
